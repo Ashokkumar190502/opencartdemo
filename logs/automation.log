@@ -1,0 +1,33 @@
+2026-02-26 10:27:52 INFO  Registrationtest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-26 10:27:52 INFO  Registrationtest:21 - Clicked on MyAccount Link.. 
+2026-02-26 10:27:53 INFO  Registrationtest:25 - Clicked on Register Link.. 
+2026-02-26 10:27:53 INFO  Registrationtest:30 - Providing customer details...
+2026-02-26 10:27:53 INFO  Registrationtest:44 - Validating expected message..
+2026-02-26 10:27:54 INFO  Registrationtest:48 - Test passed
+2026-02-26 10:27:54 INFO  Registrationtest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-26 10:48:27 INFO  Registrationtest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-26 10:48:27 INFO  Registrationtest:21 - Clicked on MyAccount Link.. 
+2026-02-26 10:48:27 INFO  Registrationtest:25 - Clicked on Register Link.. 
+2026-02-26 10:48:27 INFO  Registrationtest:30 - Providing customer details...
+2026-02-26 10:48:29 INFO  Registrationtest:44 - Validating expected message..
+2026-02-26 10:48:29 INFO  Registrationtest:48 - Test passed
+2026-02-26 10:48:29 INFO  Registrationtest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-26 10:49:22 INFO  Registrationtest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-26 10:49:22 INFO  Registrationtest:21 - Clicked on MyAccount Link.. 
+2026-02-26 10:49:23 INFO  Registrationtest:25 - Clicked on Register Link.. 
+2026-02-26 10:49:23 INFO  Registrationtest:30 - Providing customer details...
+2026-02-26 10:49:23 INFO  Registrationtest:44 - Validating expected message..
+2026-02-26 10:49:33 INFO  Registrationtest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-26 10:51:15 INFO  Registrationtest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-26 10:51:15 INFO  Registrationtest:21 - Clicked on MyAccount Link.. 
+2026-02-26 10:51:16 INFO  Registrationtest:25 - Clicked on Register Link.. 
+2026-02-26 10:51:16 INFO  Registrationtest:30 - Providing customer details...
+2026-02-26 10:51:16 INFO  Registrationtest:44 - Validating expected message..
+2026-02-26 10:51:27 INFO  Registrationtest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-26 10:56:48 INFO  Registrationtest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-26 10:56:48 INFO  Registrationtest:21 - Clicked on MyAccount Link.. 
+2026-02-26 10:56:48 INFO  Registrationtest:25 - Clicked on Register Link.. 
+2026-02-26 10:56:48 INFO  Registrationtest:30 - Providing customer details...
+2026-02-26 10:56:49 INFO  Registrationtest:44 - Validating expected message..
+2026-02-26 10:56:50 INFO  Registrationtest:48 - Test passed
+2026-02-26 10:56:50 INFO  Registrationtest:59 - ***** Finished TC001_AccountRegistrationTest *****

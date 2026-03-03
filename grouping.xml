@@ -1,0 +1,22 @@
+<suite name="Suite">
+
+<test  name="opencarttest">
+
+
+<parameter name="os" value="Windows"/>
+
+<parameter name="browser" value="chrome"/>
+<groups>
+<run>
+<include name="regression"/>
+</run></groups>
+<classes>
+
+<class name="testcases.Registrationtest"/>
+<class name="testcases.Logintest"/>
+
+
+</classes>
+
+</test>
+</suite>

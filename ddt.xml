@@ -1,0 +1,11 @@
+<suite name="Suite">
+<test thread-count="5" name="Test">
+<parameter name="os" value="windows"/>
+<parameter name="browser" value="Chrome"/>
+<classes>
+<class name="testcases.Loginddt"/>
+
+</classes>
+
+</test>
+</suite>
